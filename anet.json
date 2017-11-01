@@ -1,0 +1,15 @@
+{
+  "environment": "sandbox",
+  "products": [
+      {
+        "type": "mobileticket",
+        "product_id": 1,
+        "quantity": 2,
+        "price": 10.00
+      }
+    ],
+  "session": {
+    "user_id": 1,
+    "application_session_id": "SESSIONID"
+  }
+}

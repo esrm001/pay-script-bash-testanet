@@ -1,0 +1,18 @@
+{
+  "securePaymentContainerRequest": {
+    "merchantAuthentication": {
+      "name": "5fG3FEnRus2Z",
+      "clientKey": "7sE3HN74Hy42Cvf3Gt8C6nxdPYC2qScX7xH32p8G58Hc8YQMNRL27Y2g3UZANNk9"
+    },
+    "refId": "55b7e6d7",
+    "data": {
+      "type": "TOKEN",
+      "id": "6bda4ff4-c30b-44e9-8843-a83b52a76e63",
+      "token": {
+        "cardNumber": "4007000000027",
+        "expirationDate": "0919",
+        "cardCode": "321"
+      }
+    }
+  }
+}
